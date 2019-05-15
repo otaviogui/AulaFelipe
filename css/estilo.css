@@ -1,0 +1,109 @@
+#back-img-club{
+    background-image: url("../img/2014imgfundo.png");
+    height: 625px;
+    width: 100%;
+}
+.bgcolor-black-opacity{
+    background-color: rgba(0, 0, 0, 0.712);
+}
+#header{
+    z-index: 1;
+    display: inline-flex;
+}
+#header>ul{
+    display: inline-flex;
+    margin-left: 600px;
+    margin-top:50px;
+    text-decoration: none;
+    list-style: none;
+}
+#header>ul>li>a{
+    color:white;
+    font-weight: 500;
+}
+.logo{
+    width:300px;
+    height: 150px;
+}
+li{
+   
+}
+
+/* carrosel style */
+.content-carrosel{
+    margin:0 auto;
+    display: inline-flex;
+    color:white;
+    width: 100%;
+}
+.content-carrosel>img{
+    width: 470px;
+    height: 400px;
+}
+.content-carrosel>section>article{
+    font-size:1.2rem;
+}
+.content-text{
+    margin-top:30px;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color:#e37420;
+}
+
+.btn-club-iptv-pro{
+    background-color: #e37420;
+    color:white;
+    font-weight: 700;
+}
+
+.navegation{
+    margin-top:20px;
+    display: inline-flex;
+    margin-left: 40vw;
+}
+.button-carrosel{
+    background-color:#ccc;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.button-carrosel:hover{
+    background-color:white;
+}
+.news>h1{
+    padding: 20px;
+}
+.news>img{
+    widows: 250px;
+}
+.news>article{
+    padding: 20px;
+    color:black;
+}
+
+.price{
+    font-size: 2.9rem;
+    color:#e37420;
+}
+.content-cards{
+    display: inline-flex;
+    margin:0 auto;
+
+}
+.content-cards>.card{
+    margin-left:50px;
+}
+
+.btn-cards{
+    background-color: #e37420;
+    color:white;
+    font-weight: 700;
+}
+.title-des{
+    margin-top:30px;
+}
+.form{
+    width:400px;
+}

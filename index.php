@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lista IPTV para a toda a familia assisti e curti, filmes e series Online, Filmes em lançamento, Canais infantis, Revenda de lista IPTV">
+    <meta name="keywords" content="IPTV, LISTA IPTV, lista IPTV, Revenda de lista IPTV, Renda extra, Filmes Online, Serie Online, Filmes Lançamento 2019, Lista IPTV 2019, Revenda de lista IPTV 2019">
+    <meta name="author" content="Otávio Santos">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CLUB IPTV PRO - Lista IPTV PRO</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+    <link rel="stylesheet" type="text/css" href="css/gallery.theme.css"/>
+    <link rel="stylesheet" type="text/css" href="css/gallery.min.css"/>
+</head>
+<body>
+    <div class="container-fluid bgcolor-black-opacity" id="back-img-club">
+        <div class="row" >
+            <!--  Div == Header -->
+            <div class="col-md-12" id="header">
+                <img class="logo" src="img/Logo-CLUB-IPTV.png" alt="Logo CLUB IPTV PRO"/>
+               <!--  Div == NAV -->
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">COMO FUNCIONA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">PREÇOS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-danger" href="#">REVENDA</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-10 offset-md-1">
+                    <div class="content-carrosel sc1 active" id="item1">
+                        <section>
+                            <h1>Mais de 30 Canais Infantis</h1>
+                            <!--  Article === Paragrafo -->
+                            <article>
+                                O CLUB IPTV PRO disponibiliza todos os canais infantis em SD, HD e FULL HD. 
+                                Em qualquer pacote que você assinar terá os privilégios de levar todos os canais infatis para a diversão da sua familia toda!
+                                
+                            </article>  
+                            <div class="content-text">
+                                <p> Cartoon Network - Conteúdo 24 Horas</p>
+                                <p> Disney Channel - Conteúdo 24 Horas</p>
+                                <p> Discovery Kids - Conteúdo 24 Horas</p>
+                                <p> Disney XD - Conteúdo 24 Horas</p>
+                                <p>Nickelodeon - Conteúdo 24 Horas</p>
+                            </div> 
+                            <button class="btn form-control btn-club-iptv-pro" >REALIZAR TESTE GRATÍS AGORA</button>
+                        </section>
+                        <!-- Melhorar alt das imagens mais descritiva -->
+                        <img src="img/canais-infantis.png"  alt="Imagem 1">
+                    </div>
+                    <div class="content-carrosel d-none sc2" id="item2"> 
+                        <section>
+                            <h1> Filmes e Séries Atualizados</h1>
+                            <article>
+                                Nosso conteúdo é atualizado de forma constante, acompanhando os grandes lançamentos do Cinema, Séries que são sucessos absolutos e grandes Clássicos que marcaram época:
+                            </article>
+                            <div class="content-text">
+                                <p>Filmes e Séries em SD e HD.</p>
+                                <p> Filmes Adicionados toda semana, conforme são lançados na web.</p>
+                                <p> Séries completas e atualizadas toda semana.</p>
+                                <p> Filmes Clássicos e Canais Especiais repletos de Nostalgia.</p>
+                                
+                            </div> 
+                            <button class="btn form-control btn-club-iptv-pro">ESCOLHA O SEU PLANO</button>
+                        </section>
+                        <img src="img/home3.png"  alt="Imagem 1">
+                    </div>
+                    <div class="content-carrosel d-none sc3" id="item3">
+                        <img src="img/revendedor.png"/>
+                        <section>
+                            <h1>SEJA UM REVENDEDOR </h1>
+                           <article>
+                           Seja um parceiro comercial CLUB IPTV PRO, um revendor OFICIAL e fature alto vendendo nossas listas IPTV: 
+                           </article> 
+                           <div class="content-text">
+                                <p>Preços e condições de Pagamento altamente competitivas.</p>
+                                <p>Painel Administrativo para revendedor.</p>
+                                <p>Toda administrações é conosco, você apenas revende e fatura.</p>
+                                <p>Toda nossa estrutura e conteúdo a sua disposição.</p>
+                            </div> 
+                            <button class="btn form-control btn-club-iptv-pro" >CONHEÇA NOSSOS PLANOS</button>
+                        </section>
+                    </div>
+                    <div class="navegation">
+                        <p class="button-carrosel" id="n1"></p>
+                        <p class="button-carrosel" id="n2"></p>
+                        <p class="button-carrosel" id="n3"></p>
+                    </div>
+                </div>      
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-10 offset-md-1">
+                    <h1 class="text-center">COMO FUNCIONA A LISTA IPTV ?</h1>
+                    <div class="content-carrosel news" id="item3">
+                        <img src="img/tv.png"/>
+                        <article >
+                            <p>Você recebe todo o conteúdo pela Internet, e assiste a tudo através de aplicativos específicos. Há Aplicativos fáceis de usar, para Android, Iphone, Computador e na sua SmarTV.</p>
+                            <p>Não sabe como?! Não se Preocupe! Possuímos dicas infalíveis, e atendimento primoroso para ajuda-lo. Dois cliques e estará tudo pronto para desfrutar do melhor do entretenimento.</p><p> É a TV do Futuro na sua casa.</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class=" col-md-10 offset-md-1">
+                    <h1 class="text-center title-des">CONHEÇA NOSSOS PREÇOS</h1>
+                    <h3 class="text-center title-des">Assista aonde, quando e como quiser !</h3>
+                    <h4 class="text-center">Nossa lista contém mais de 700 Canais brasileiro e mais de 200 canais internacionais. + 2.000 FILMES e Series.</h4>
+                    <div class="content-cards">
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Prata</h5>
+                            <div class="price text-center">R$49,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-club-iptv-pro">Adiquira já</button>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Gold</h5>
+                            <div class="price text-center">R$99,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   Canais Regionais</li>
+                                <li class="list-group-item">   Rádios Online</li>
+                                <li class="list-group-item">   Canais Legendados</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-club-iptv-pro">Adiquira já</button>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Premium</h5>
+                            <div class="price text-center">R$199,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   Canais Regionais</li>
+                                <li class="list-group-item">   Rádios Online</li>
+                                <li class="list-group-item">   Canais Legendados</li>
+                                <li class="list-group-item">   M3U / MAG / HLS MPEGTS / RTMP</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-cards">Adiquira já</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class=" col-md-10 offset-md-1">
+                    <h1 class="text-center title-des">CONHEÇA NOSSOS PLANO PARA REVENDA</h1>
+                    <h3 class="text-center title-des">Faça a sua renda Extra sem sair de casa</h3>
+                    <h4 class="text-center">Fornecemos todo o suporte e treinamento para os nossos revendedores da lista IPTV.</h4>
+                    <div class="content-cards">
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Prata</h5>
+                            <div class="price text-center">R$49,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-club-iptv-pro">Adiquira já</button>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Gold</h5>
+                            <div class="price text-center">R$99,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   Canais Regionais</li>
+                                <li class="list-group-item">   Rádios Online</li>
+                                <li class="list-group-item">   Canais Legendados</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-club-iptv-pro">Adiquira já</button>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <h5 class="card-title text-center">Plano Premium</h5>
+                            <div class="price text-center">R$199,99</div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">±16.500 Canais, FIlmes e Séries</li>
+                                <li class="list-group-item">1 Ponto simultâneo</li>
+                                <li class="list-group-item">Canais SD, HD, FULLHD e 4K</li>
+                                <li class="list-group-item">    Canais Adultos</li>
+                                <li class="list-group-item">    Desenhos, Novelas e Religiosos</li>
+                                <li class="list-group-item">    Canais Brasileiros</li>
+                                <li class="list-group-item">   Canais Regionais</li>
+                                <li class="list-group-item">   Rádios Online</li>
+                                <li class="list-group-item">   Canais Legendados</li>
+                                <li class="list-group-item">   M3U / MAG / HLS MPEGTS / RTMP</li>
+                                <li class="list-group-item">   R$40,00 Ponto Adicional</li>
+                            </ul>
+                            <div class="card-body">
+                                <button class="btn form-control btn-cards">Adiquira já</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-10 offset-md-1">
+                    <h1 class="text-center title-des">FAÇA O SEU TESTE GRÁTIS</h1>
+                    <div class="content-cards">
+                        <div class="col-md-6">
+                            <article>
+                                <p>A IPTV é uma tecnologia que permite a transmissão da programação da televisão por meio de protocolos de internet. Através de servidores altamente qualificados, o streaming é entregue para todos os usuários de forma eficiente e segura. É a maneira mais fácil de desfrutar de canais de TV, filmes (On Demand), esportes ao vivo e muito mais.</p>
+                                <p>Assista aonde, quando e como quiser !</p>
+                                <p>Nossa lista contém mais de 700 Canais brasileiro e mais de 200 canais internacionais. + 2.000 FILMES e Series. </p>
+                            </article>
+                        </div>
+                        <div class="col-md-6">
+                            <form class="form" action="" method="post">
+                                <div class="form-group">
+                                    <label>Nome</label>
+                                    <input type="text" placeholder="Digite seu nome" required class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <label>E-mail</label>
+                                    <input type="email" placeholder="Digite seu email" required class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <label>Telefone</label>
+                                    <input type="text" placeholder="Digite seu telefone" required class="form-control">
+                                </div>
+                                <div class="form-group">
+                                    <label>Escolha seu plano</label>
+                                    <select class="form-control">
+                                        <option value="">Plano prata</option>
+                                        <option value="">Plano Gold</option>
+                                        <option value="">Plano Premium</option>
+                                    </select>
+                                </div>
+                                <button class="btn btn-cards form-control">Realizar Teste</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
