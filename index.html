@@ -12,26 +12,38 @@
     <link rel="stylesheet" type="text/css" href="css/estilo.css"/>
     <link rel="stylesheet" type="text/css" href="css/gallery.theme.css"/>
     <link rel="stylesheet" type="text/css" href="css/gallery.min.css"/>
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131907779-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-131907779-2');
+    </script>
 </head>
 <body>
     <div class="container-fluid bgcolor-black-opacity" id="back-img-club">
         <div class="row" >
             <!--  Div == Header -->
-            <div class="col-md-12" id="header">
+            <header class="col-md-12" id="header">
                 <img class="logo" src="img/Logo-CLUB-IPTV.png" alt="Logo CLUB IPTV PRO"/>
                <!--  Div == NAV -->
-                <ul>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">COMO FUNCIONA</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">PREÇOS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="btn btn-danger" href="#">REVENDA</a>
-                    </li>
-                </ul>
-            </div>
+                <nav>
+                    <ul>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">COMO FUNCIONA</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">PREÇOS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-danger" href="#">REVENDA</a>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
         </div>
         <div class="row">
             <div class="col-md-12">
@@ -39,12 +51,12 @@
                     <div class="content-carrosel sc1 active" id="item1">
                         <section>
                             <h1>Mais de 30 Canais Infantis</h1>
-                            <!--  Article === Paragrafo -->
-                            <article>
-                                O CLUB IPTV PRO disponibiliza todos os canais infantis em SD, HD e FULL HD. 
-                                Em qualquer pacote que você assinar terá os privilégios de levar todos os canais infatis para a diversão da sua familia toda!
+                           <!--  Article === Paragrafo -->
+                            <p>O CLUB IPTV PRO disponibiliza todos os canais infantis em SD, HD e FULL HD. </p>  
                                 
-                            </article>  
+                               <p> Em qualquer pacote que você assinar terá os privilégios de levar todos os canais infatis para a diversão da sua familia toda!</p>
+                                
+                            
                             <div class="content-text">
                                 <p> Cartoon Network - Conteúdo 24 Horas</p>
                                 <p> Disney Channel - Conteúdo 24 Horas</p>
@@ -72,7 +84,7 @@
                             </div> 
                             <button class="btn form-control btn-club-iptv-pro">ESCOLHA O SEU PLANO</button>
                         </section>
-                        <img src="img/home3.png"  alt="Imagem 1">
+                        <img src="img/home3.png"  alt="Filmes e series online para a toda a familia">
                     </div>
                     <div class="content-carrosel d-none sc3" id="item3">
                         <img src="img/revendedor.png" alt="Revendedor List IPTV renda extra"/>
@@ -289,11 +301,13 @@
                 </div>
             </div>
         </div>
+        <div class="row">
+            
+        </div>
     </div>
     <script type="text/javascript" src="js/script.js">
-        
     
-    </script>
+
     <script type="application/json+ld">
     {
       "@context": "https://json-ld.org/contexts/person.jsonld",
